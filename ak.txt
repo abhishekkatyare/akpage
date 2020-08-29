@@ -24,7 +24,8 @@ Goal            : Salesforce Technical Architect (....very long way to go!!)
 <br/>
 
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt
-<p> Social Media links : <br> 
+
+Social Media links : <br> 
 <a href="https://www.linkedin.com/in/abhishekkatyare/">LinkedIn://abhishekkatyare</a>
 <a href="https://trailhead.com/me/abhishekkatyare/">Trailhead://abhishekkatyare</a>
 <a href="https://github.com/abhishekkatyare/">GitHub://abhishekkatyare</a>
@@ -32,6 +33,6 @@ Goal            : Salesforce Technical Architect (....very long way to go!!)
 <a href="https://www.instagram.com/abhishekkatyare/">Instagram://abhishekkatyare</a></p>
 <br>
 
-Cheers!!
+Cheers!!!
 
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> exit<br/>
