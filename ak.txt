@@ -1,0 +1,52 @@
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cd pritam/
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->introduction.txt
+Name     : Abhishek Katyare
+Work     : Software Engineer
+          <p>....Technology Enthusiast, Critical Reader and Thinker, Photographer, Hiker and Trekker</p>
+Quote    : <span id="k">Seeker of truth, who is on the path to becoming a mystic.</span>
+
+<br/>
+
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->professional-exp.txt
+
+Work Experience : 3+ years
+Technology      : Salesforce
+Expertise       : Lightning Experience, Apex, Integration, all kinds of clouds, etc, etc, etc......
+Goal            : Salesforce Technical Architect (....very long way to go!!)
+
+<br/>
+
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->skills.txt
+<span id="d">Mad Skills !!</span>
+<span id="d"><b>System.NoSuchElementException:</b></span> Iterator has no more elements.
+
+<br/>
+
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->certifications.txt
+
+~ <span id="k">Salesforce Certified Administrator</span>
+~ <span id="k">Salesforce Certified Platform App Builder</span>
+~ <span id="k">Salesforce Certified Platform Developer I</span>
+~ <span id="k">Salesforce Certified Sales Cloud Consultant</span>
+
+<br/>
+
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->achievements.txt
+
+Salesforce Ranger
+Centelon's Employee of the month
+AppExchange product developer. 
+Psst.. Check it out :  <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FP2Z4UAL">CELISA</a>
+
+<br/>
+
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt
+<p> Social Media links : <br> 
+<a href="https://www.linkedin.com/in/patilpritam/">LinkedIn</a>.
+<a href="https://trailhead.com/me/patilp">Trailhead</a>.
+<a href="https://www.instagram.com/petrolhead6026/">Instagram</a>.</p>  
+<br>
+
+Cheers!!
+
+<span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> exit<br/>
