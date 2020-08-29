@@ -3,7 +3,7 @@
 
 Name     : Abhishek Katyare
 Work     : Software Engineer
-          <p>....Technology Enthusiast, Critical Reader and Thinker, Photographer, Hiker and Trekker</p>
+          <p>....Technology Enthusiast, Critical Reader and Thinker, Photographer, Hiker and Trekker.</p>
 Quote    : <span id="k">Seeker of truth, who is on the path to becoming a mystic.</span>
 
 <br/>
