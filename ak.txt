@@ -1,6 +1,6 @@
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cd Abhishek/
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->introduction.txt
-<p>
+
 Name     : Abhishek Katyare
 Work     : Software Engineer
           <p>....Technology Enthusiast, Critical Reader and Thinker, Photographer, Hiker and Trekker</p>
@@ -13,24 +13,19 @@ Quote    : <span id="k">Seeker of truth, who is on the path to becoming a mystic
 Work Experience : 3+ years
 Technology      : Salesforce
 Expertise       : Lightning Experience, Apex, Integration, all kinds of clouds, etc, etc, etc......
-Goal            : Salesforce Technical Architect (....very long way to go!!)
-
-<br/>
+Goal            : Salesforce Technical Architect (....very long way to go!!)<br/>
 
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->skills.txt
-<span id="d"><p>Mad Skills!!!</span>
-<span id="d"><b>System.NoSuchElementException:</b></span> Iterator has no more elements.
-
-<br/>
+<span id="d">Mad Skills!!!</span>
+<span id="d"><b>System.NoSuchElementException:</b></span> Iterator has no more elements.<br/>
 
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt
-
-Social Media links : <br> 
+Social Media links : 
 <a href="https://www.linkedin.com/in/abhishekkatyare/">LinkedIn://abhishekkatyare</a>
 <a href="https://trailhead.com/me/abhishekkatyare/">Trailhead://abhishekkatyare</a>
 <a href="https://github.com/abhishekkatyare/">GitHub://abhishekkatyare</a>
 <a href="https://twitter.com/AbhishekKatyare/">Twitter://abhishekkatyare</a>
-<a href="https://www.instagram.com/abhishekkatyare/">Instagram://abhishekkatyare</a></p>
+<a href="https://www.instagram.com/abhishekkatyare/">Instagram://abhishekkatyare</a>
 <br>
 
 Cheers!!!
