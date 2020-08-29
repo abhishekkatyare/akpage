@@ -5,13 +5,11 @@ Name     : Abhishek Katyare
 Work     : Software Engineer
           <p>....Technology Enthusiast, Critical Reader and Thinker, Photographer, Hiker and Trekker.</p>
 Quote    : <span id="k">Seeker of truth, who is on the path to becoming a mystic.</span>
-
-<br/>
-
+<br>
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->skills.txt
 <span id="d">Mad Skills!!!</span>
 <span id="d">System.NoSuchElementException:</span> Iterator has no more elements.
-
+<br>
 <span id="a">ak@rootmachine</span>:<span id="b">~</span><span id="c">#</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt
 Social Media links : 
 
